@@ -2,8 +2,10 @@
 <p align="center">
   <img src="readme.png" width="350" title="keep an open mind girl">
 </p>
+<p align="center">
+   Wrapper for Open-source Native Heuristic Operations (WONHO)
+</p>
 
-Wrapper for Open-source Native Heuristic Operations (WONHO)
 
 # Motivation
 
