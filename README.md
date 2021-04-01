@@ -1,4 +1,8 @@
 # Wonho
+<p align="center">
+  <img src="readme.png" width="350" title="keep an open mind girl">
+</p>
+
 Wrapper for Open-source Native Heuristic Operations (WONHO)
 
 # Motivation
