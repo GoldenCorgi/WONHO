@@ -5,6 +5,8 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg) 
 [![My Looks](https://img.shields.io/badge/handsome-110%25-blue.svg)](https://www.google.com/search?q=park+hyung+sik) 
 ![OwO](https://img.shields.io/badge/OwO-what's%20this-blueviolet.svg)
+![build](https://img.shields.io/badge/build-passing-brightgreen)
+![rs](https://img.shields.io/badge/relationship-failing-red)
 
 
 <!-- PROJECT LOGO -->
@@ -86,7 +88,7 @@ You need either npm or yarn
   npm install npm@latest -g
   ```
 
-### Installation
+### Installation - Website
 
 2. Clone the repo
    ```sh
@@ -97,17 +99,65 @@ You need either npm or yarn
    npx http-server
    ```
 4. Open localhost in browser
+## Installation - Pip
+
+```python
+pip install just-time-it
+```
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-Ctrl+C, Ctrl+V
+Too lazy to wrap your functions with this?
+
+```python
+import time
+starttime = time.time()
+def shakyRelationship(Wallet):
+    while True:
+        if Wallet == "empty":
+            break
+        elif Wallet == "thicc":
+            # stop lying to yourself
+            break
+    return "big sad"
+YourWallet = "empty"
+result = shakyRelationship(YourWallet)
+print(time.time()-starttime)
+>>> 1.0940176924541224e-06
+```
+
+Now you can wrap it like this
+
+``` python
+from timefunctions import timefunc
+MyWallet = "thicc"
+result = timefunc("shakyRelationship(MyWallet)",globals=globals()) # Only include globals() if you have variables
+>>> Time Taken for shakyRelationship: 1.0940176924541224e-06 . Repeated 1 time(s).
+```
+
+This package can't save your relationships but it can save you that 3 seconds.
+
+Now you can go spend more time learning Tensorflow for that interesting python uncensoring project.
 
 ## FAQ
 
-Q: help im stuck
-A: step bro?
+> Should I use this?
+
+No, this is like the worst possible combination of words to ever grace this Earth.
+
+> Can I change the README to be more professional?
+
+I'll put this entire file through an OwO generator if you try
+
+> I'm a born masochist, I still use Python2.3. Will there be support for Python3.5 or other earlier depreciated versions?
+
+If I wanted to torture myself with compatibility issues, I might as well go into the dating scene.
+
+> help im stuck
+
+step bro?
 <!-- ROADMAP -->
 
 ## Roadmap
@@ -127,3 +177,7 @@ Contributors :
 ## Contact
 
 please dont
+
+## License
+
+bruh
