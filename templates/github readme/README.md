@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/goldencorgi/WONHO/LICENSE) 
 [![Coverage Status](https://coveralls.io/repos/github/GoldenCorgi/just-time-it/badge.svg?branch=master)](https://coveralls.io/github/GoldenCorgi/just-time-it?branch=master) 
 [![GitHub file size in bytes](https://img.shields.io/github/size/GoldenCorgi/just-time-it/timefunctions/__init__.py.svg)](https://github.com/GoldenCorgi/just-time-it/blob/master/timefunctions/__init__.py) 
-[![Python Version](https://img.shields.io/badge/python-3.6%20%7C%203.7-blue.svg)]
+![Python Version](https://img.shields.io/badge/python-3.6%20%7C%203.7%203.8%203.9%204.20-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg) 
 [![My Looks](https://img.shields.io/badge/handsome-110%25-blue.svg)](https://www.google.com/search?q=park+hyung+sik) 
 ![OwO](https://img.shields.io/badge/OwO-what's%20this-blueviolet.svg)
