@@ -10,8 +10,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SandboxSG/SandboxSG-Bootstrap">
-    <img src="src/img/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/GoldenCorgi/WONHO">
+    <img src="https://github.com/GoldenCorgi/WONHO/blob/main/readme.png" alt="Logo" width="300">
   </a>
 
   <h3 align="center">SandboxSG FrontEnd Repository</h3>
