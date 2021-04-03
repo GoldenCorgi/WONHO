@@ -76,7 +76,7 @@ i will include the following code that ive optimised to make life alot easier fo
   <!-- templates -->
   <tr>
     <td rowspan="3"><b>templates</b></td>
-    <td rowspan="1"><b><a style="white-space:nowrap; display:inline-block;" href="./"><div style='vertical-align:middle; display:inline;'>github repo open source templates
+    <td rowspan="1"><b><a style="white-space:nowrap; display:inline-block;" href="./templates/readme"><div style='vertical-align:middle; display:inline;'>github repo open source templates
 </div></a></b></td>
     <td rowspan="1"></td>
     <td rowspan="1">In Progress</td>
