@@ -1,5 +1,4 @@
 site_name: WONHO by Wonho
-site_name: FastAPI
 site_description: lmao
 site_url: 
 theme:
@@ -31,4 +30,3 @@ google_analytics:
 - auto
 plugins:
 - search
-docs_dir: '../'
