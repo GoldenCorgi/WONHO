@@ -1,0 +1,34 @@
+site_name: WONHO by Wonho
+site_name: FastAPI
+site_description: lmao
+site_url: 
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: teal
+    accent: amber
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to light mode
+  - scheme: slate
+    primary: teal
+    accent: amber
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+  features:
+  - search.suggest
+  - search.highlight
+  icon:
+    repo: fontawesome/brands/github-alt
+  language: en
+repo_name: GoldenCorgi/WONHO
+repo_url: https://github.com/GoldenCorgi/WONHO
+edit_uri: ''
+google_analytics:
+- UA-
+- auto
+plugins:
+- search
+docs_dir: '../'
