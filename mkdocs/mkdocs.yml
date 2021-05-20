@@ -1,6 +1,5 @@
 site_name: WONHO by Wonho
 site_description: lmao
-site_url: 
 theme:
   name: material
   palette:
@@ -24,9 +23,5 @@ theme:
   language: en
 repo_name: GoldenCorgi/WONHO
 repo_url: https://github.com/GoldenCorgi/WONHO
-edit_uri: ''
-google_analytics:
-- UA-
-- auto
 plugins:
 - search
