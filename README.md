@@ -28,7 +28,7 @@ i will include the following code that ive optimised to make life alot easier fo
   </tr>
   <!-- Hackathons -->
   <tr>
-    <td rowspan="3"><b>Hackathon</b></td>
+    <td rowspan="4"><b>Hackathon</b></td>
     <td rowspan="1"><b><a style="white-space:nowrap; display:inline-block;" href="https://github.com/tengbao/vanta"><div style='vertical-align:middle; display:inline;'>Vanta.js</div></a></b></td>
     <td rowspan="1">Animated 3d Background for Websites in minified JS</td>
     <td rowspan="1"><code>2021</code></td>
@@ -43,7 +43,16 @@ i will include the following code that ive optimised to make life alot easier fo
     <td rowspan="1">good shitpost</td>
     <td rowspan="1"><code>why</code></td>
   </tr>
+  <tr>
+    <td rowspan="1"><b><a style="white-space:nowrap; display:inline-block;" href="https://front.codes/"><div style='vertical-align:middle; display:inline;'>Front Codes</div></a></b></td>
+    <td rowspan="1">CSS Snippets</td>
+    <td rowspan="1"><code>2021</code></td>
+  </tr>
 
+
+  
+  
+  
   <!-- Python -->
   <tr>
     <td rowspan="4"><b>Python</b></td>
