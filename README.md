@@ -14,6 +14,8 @@ i finally lost it
 # keep an open mind
 i will include the following code that ive optimised to make life alot easier for everyone (and me)
 
+2022 UPDATES: also including hackathon quickhacks for rapid prototyping because i keep forgetting my best resources
+
 
 
 
@@ -24,6 +26,24 @@ i will include the following code that ive optimised to make life alot easier fo
     <th>Description</th>
     <th>Status</th>
   </tr>
+  <!-- Hackathons -->
+  <tr>
+    <td rowspan="3"><b>Hackathon</b></td>
+    <td rowspan="1"><b><a style="white-space:nowrap; display:inline-block;" href="https://github.com/tengbao/vanta"><div style='vertical-align:middle; display:inline;'>Vanta.js</div></a></b></td>
+    <td rowspan="1">Animated 3d Background for Websites in minified JS</td>
+    <td rowspan="1"><code>2021</code></td>
+  </tr>
+  <tr>
+    <td rowspan="1"><b><a style="white-space:nowrap; display:inline-block;" href="https://codepen.io/davidkpiano/pens/public"><div style='vertical-align:middle; display:inline;'>CodePen Animations</div></a></b></td>
+    <td rowspan="1">CSS-only Animations - Good for aesthetic purposes, may be laggy</td>
+    <td rowspan="1"><code>2021</code></td>
+  </tr>
+  <tr>
+    <td rowspan="1"><b><a style="white-space:nowrap; display:inline-block;" href="https://codepen.io/stivaliserna/pen/BaNROrw"><div style='vertical-align:middle; display:inline;'>golang gopher animation</div></a></b></td>
+    <td rowspan="1">good shitpost</td>
+    <td rowspan="1"><code>why</code></td>
+  </tr>
+
   <!-- Python -->
   <tr>
     <td rowspan="4"><b>Python</b></td>
